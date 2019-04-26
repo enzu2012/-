@@ -20,3 +20,4 @@ city,city+city
 location_low_priority,location_low_priority+location_low_priority
 location_keywords,location_keywords+location_keywords
 local_location,GPS+GPS
+here_location,GPS+GPS
